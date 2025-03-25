@@ -1,12 +1,12 @@
-# Jogo da Velha
+# Jogo da Velha com IA e Estilização Moderna
 
-Um simples jogo da velha implementado em React.
+Jogo da velha simples com a possibilidade de jogar contra a IA, utilizando React e uma interface moderna com efeitos visuais.
 
-## Como Jogar
+## 🛠 Tecnologias Usadas
+- React
+- CSS
 
-1. Abra o jogo em seu navegador.
-2. Dois jogadores podem jogar, alternando entre "X" e "O".
-3. Clique em uma célula vazia para fazer sua jogada.
-4. O primeiro jogador a conseguir uma linha, coluna ou diagonal completa com suas peças vence.
-5. Se todas as células forem preenchidas sem nenhum vencedor, o jogo termina em empate.
-
+## 🎮 Como Jogar
+1. Jogue contra a máquina (X) ou com outro jogador (O).
+2. A máquina fará movimentos inteligentes para tentar ganhar.
+3. Reinicie o jogo a qualquer momento clicando no botão "Reiniciar".
